@@ -6,14 +6,13 @@ This repository documents my **DSA learning journey** while preparing for coding
 ---
 
 ## 📂 Repository Structure
-📦 leetcode-solutions
-┣ 📂 arrays
-┣ 📜 two_sum.py
-┣ 📂 strings
-┣ 📂 linked_list
-┣ 📂 dynamic_programming
-┣ 📂 graphs
-┣ 📜 README.md
+- 📦 leetcode-solutions
+- ┣ 📂 Arrays
+- ┣ 📂 Strings
+- ┣ 📂 Linked List
+- ┣ 📂 Dynamic Programming
+- ┣ 📂 Graphs
+- ┣ 📜 README.md
 
 - **arrays/** → Problems related to arrays  
 - **strings/** → String manipulation problems  
@@ -28,7 +27,7 @@ This repository documents my **DSA learning journey** while preparing for coding
 
 **Problem:** [Two Sum](https://leetcode.com/problems/two-sum/)  
 **Difficulty:** Easy  
-**Approach:** HashMap / Dictionary  
+**Approach:** HashMap / One-pass  
 
 ```python
 # Problem: https://leetcode.com/problems/two-sum/
