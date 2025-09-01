@@ -7,21 +7,15 @@ This repository documents my **DSA learning journey** while preparing for coding
 
 ## 📂 Repository Structure
 - 📦 leetcode-solutions
-- ┣ 📂 Arrays
-- ┣ 📂 Strings
-- ┣ 📂 Linked List
-- ┣ 📂 Dynamic Programming
-- ┣ 📂 Graphs
+- ┣ 📂 Arrays → Problems related to arrays
+- ┣ 📂 Linked List → Linked List problems  
+- ┣ 📂 Sliding Window → Problems using Sliding Window technique  
+- ┣ 📂 Strings → String manipulation problems  
+- ┣ 📂 Dynamic Programming → DP problems 
+- ┣ 📂 Graphs → Graph-related problems  
 - ┣ 📜 README.md
 
-- **arrays/** → Problems related to arrays  
-- **strings/** → String manipulation problems  
-- **linked_list/** → Linked List problems  
-- **dynamic_programming/** → DP problems  
-- **graphs/** → Graph-related problems  
-
 ---
-
 
 ## 🌟 Example Solution
 
