@@ -6,7 +6,7 @@ This repository documents my **DSA learning journey** while preparing for coding
 ---
 
 ## 📂 Repository Structure
-- 📦 leetcode-solutions
+- 📦 DSA-LeetCode-Solutions
 - ┣ 📂 Arrays → Problems related to arrays
 - ┣ 📂 Linked List → Linked List problems  
 - ┣ 📂 Sliding Window → Problems using Sliding Window technique  
