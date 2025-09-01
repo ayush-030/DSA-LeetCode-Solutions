@@ -48,14 +48,13 @@ class Solution:
 ---
 
 ## 🛠️ Tech Stack
-- **Language**: Python 🐍  
+- **Language**: Python 
 - **Platform**: [LeetCode](https://leetcode.com/)  
 - **Version Control**: Git + GitHub  
 
 ---
 
 ## 🎯 Goals
-- Solve **at least 1 problem daily** (or batch on weekends).  
 - Cover all major patterns (**Arrays, Strings, DP, Graphs, Trees**).  
 - Build strong **DSA foundations** for placements & interviews.  
 
@@ -67,4 +66,4 @@ Feel free to **fork** and try out the problems yourself! 🚀
 
 ---
 
-### ✨ “Code every day, grow every day.”
+✨ “Code every day, grow every day.”
